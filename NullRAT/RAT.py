@@ -112,8 +112,8 @@ async def on_ready():
             timestamp=datetime.now(),
         )
         .set_author(
-            name="NullCode1337",
-            url=r"https://denza.one/",
+            name=".gg/prospect",
+            url=r".gg/prospect",
             icon_url=r"https://avatars.githubusercontent.com/u/70959549?v=4",
         )
         .set_footer(text="Identifier: " + rererere)
